@@ -33,7 +33,7 @@ class _MypageState extends State<Mypage> {
 
   @override
   Widget build(BuildContext context) {
-    print ("hello pull")
+    print ("hello pull");
     return Scaffold(
       body: Container(
         child: Stack(
