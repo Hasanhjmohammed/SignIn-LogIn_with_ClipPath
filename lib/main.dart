@@ -34,6 +34,7 @@ class _MypageState extends State<Mypage> {
   @override
   Widget build(BuildContext context) {
     print ("hello pull");
+    print("ahmed");
     return Scaffold(
       body: Container(
         child: Stack(
